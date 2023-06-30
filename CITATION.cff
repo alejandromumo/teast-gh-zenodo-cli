@@ -7,7 +7,7 @@ authors:
 - family-names: "Lisa"
   given-names: "Mona"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: teast-gh-zenodo-cli
+title: "teast-gh-zenodo-cli"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2023-02-08
