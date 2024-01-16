@@ -12,4 +12,4 @@ An AI-driven Knowledge Graph of the Antiquities market: toward automatised metho
 
 I am also helping
 
->:info: Hello
+>:warning: Hello
