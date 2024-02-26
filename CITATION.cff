@@ -11,6 +11,7 @@ doi: 10.5281/zenodo.1234
 date-released: 2023-02-08
 url: "https://github.com/alejandromumo/teast-gh-zenodo-cli"
 abstract: "This is the abstract from CITATION.cff"
+license:"lgpl-2.1-or-later"
 keywords: 
 - test_citation
 - citation
